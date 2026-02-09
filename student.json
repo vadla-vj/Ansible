@@ -1,0 +1,24 @@
+{
+    "student" :[
+        {
+            "firstName" : "Ansible",
+            "LastName" : "Student",
+            "dob" : "2000-01-01",
+            [
+               { "Address" : "123 Ansible Street",
+                "City" : "Ansible City",    
+                "State" : "Ansible State",  
+                "Zip" : "12345"
+                },  
+               {
+                "Address" : "456 Ansible Avenue",
+                "City" : "Ansible Town",    
+                "State" : "Ansible State",  
+                "Zip" : "67890"
+               }
+            ],
+            "skills" : ["Ansible", "Automation", "DevOps"]
+        }
+    ]
+    
+}

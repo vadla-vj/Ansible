@@ -1,0 +1,29 @@
+- Name : "Dileep Kumar"
+  dob : "1995-08-15"
+  Mobile : "9876543210"
+  Address :
+  - Plot No : 123
+    Street : "MG Road"
+    City : "Bangalore"
+    State : "Karnataka"
+    Pincode : 560001
+  - Plot No : 456
+    Street : "Brigade Road"
+    City : "Bangalore"
+    State : "Karnataka"
+    Pincode : 560002
+
+- Name : "Revansh Vadla"
+  dob : "1995-08-15"
+  Mobile : "9876543210"
+  Address :
+  - Plot No : 123
+    Street : "MG Road"
+    City : "Bangalore"
+    State : "Karnataka"
+    Pincode : 560001
+  - Plot No : 456
+    Street : "Brigade Road"
+    City : "Bangalore"
+    State : "Karnataka"
+    Pincode : 560002
