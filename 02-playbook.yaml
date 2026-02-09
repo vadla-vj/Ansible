@@ -1,0 +1,6 @@
+- name: print the Hello worl!
+  hosts: local
+  tasks:
+   - name: print the Hello Revansh
+     ansible.builtin.debug:
+        msg: "Hello Revansh"
