@@ -12,5 +12,5 @@
   tasks:
   # vars:
   #  - name: print values from tasks
-     ansible.builtin.debug:
-      msg: "HI {{ Name}}, Good Morning"
+   ansible.builtin.debug:
+    msg: " {{ Name}}g"
