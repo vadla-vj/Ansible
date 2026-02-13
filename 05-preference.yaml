@@ -9,8 +9,7 @@
   - name: Name
     prompt: pleas enter your name
     private: false
-  tasks:
-  - name: print values from tasks
-    ansible.builtin.debug:
-      msg: "HI {{ Name}}, Good Morning"
-      
+  # tasks:
+  # - name: print values from tasks
+  #   ansible.builtin.debug:
+  #     msg: "HI {{ Name}}, Good Morning"
