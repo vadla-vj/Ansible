@@ -1,0 +1,7 @@
+- name : print for aruments
+  host: local
+  connection: local
+  tasks:
+    -name: print the arguments
+     ansible.builtin.debug:
+       msg: "The value of the argument is {{ my_arg }}"
