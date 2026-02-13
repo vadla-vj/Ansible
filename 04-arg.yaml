@@ -1,8 +1,7 @@
 - name : print for aruments
-  host: local
+  hosts: local
   connection: local
   tasks:
     - name: pritnt the values
       ansible.builtin.debug:
         msg: "HI {{ Name}}, Good Morning"
-        
