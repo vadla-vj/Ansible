@@ -1,6 +1,6 @@
 - name : print for aruments
-  hosts: local
-  connection: local
+  hosts: localhost
+  connection: localhost
   tasks:
     - name: pritnt the values
       ansible.builtin.debug:
