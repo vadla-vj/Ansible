@@ -5,10 +5,10 @@
    Name: "Ansible from Play"
   vars_files:
   - cource.yaml
-  vars_prompt:
-  - name: Name
-    prompt: pleas enter your name
-    private: false
+  # vars_prompt:
+  # - name: Name
+  #   prompt: pleas enter your name
+  #   private: false
   tasks:
   - name: print name
   # vars:
