@@ -13,5 +13,5 @@
   - name: print name
   # vars:
   #  - name: print values from tasks
-   ansible.builtin.debug:
-    msg: " {{ Name}}"
+    ansible.builtin.debug:
+     msg: " {{ Name}}"
