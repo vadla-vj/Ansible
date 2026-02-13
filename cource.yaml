@@ -1,0 +1,3 @@
+- name: Course Information
+  vars:
+   Name="Ansible Course"
