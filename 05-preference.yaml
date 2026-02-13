@@ -1,8 +1,8 @@
 - name: variable from prefernce
   hosts: localhost
   connection: localhost
-  vars:
-   Name: "Ansible from Play"
+  # vars:
+  #  Name: "Ansible from Play"
   vars_files:
   - cource.yaml
   # vars_prompt:
